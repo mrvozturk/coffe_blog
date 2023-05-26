@@ -1,11 +1,11 @@
 # Coffee Blog
-* Web sitemiz, kafe ve içerisinde yer alan çeşitli kahvelerle ilgili bilgi ve deneyimleri paylaşmayı hedefleyen bir platformdur. 
-Amacımız, kahve severleri bir araya getirerek kahve dünyasını keşfetmelerine ve kahve deneyimlerini zenginleştirmelerine yardımcı olmaktır. 
-Kafeinli içeceklerin farklı türleri, kahve çekirdekleri, demleme teknikleri ve lezzetli tarifler gibi konularda içerik sunarak kullanıcılarımızı 
-bilgilendirmek ve kahve tutkusunu paylaşmak istiyoruz. 
-Aynı zamanda kahve severler arasında etkileşim ve deneyim paylaşımını teşvik ederek bir kahve topluluğu oluşturmayı amaçlıyoruz 
+* Web sitem, kafe ve içerisinde yer alan çeşitli kahvelerle ilgili bilgi ve deneyimleri paylaşmayı hedefleyen bir platformdur. 
+Amacım, kahve severleri bir araya getirerek kahve dünyasını keşfetmelerine ve kahve deneyimlerini zenginleştirmelerine yardımcı olmaktır. 
+Kafeinli içeceklerin farklı türleri, kahve çekirdekleri, demleme teknikleri ve lezzetli tarifler gibi konularda içerik sunarak kullanıcılarımı
+bilgilendirmek ve kahve tutkusunu paylaşmak istiyorum. 
+Aynı zamanda kahve severler arasında etkileşim ve deneyim paylaşımını teşvik ederek bir kahve topluluğu oluşturmayı amaçlıyorum
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- "Web sitemiz, kafe ve kahvelerle ilgili içerik sunarken şu anda sadece bilgisayarlara uygun bir platformda erişilebilir.Mobil ve tablet alanında henüz geliştirme düzenlenmemiştir"
+- "Web sitem, kafe ve kahvelerle ilgili içerik sunarken şu anda sadece bilgisayarlara uygun bir platformda erişilebilir.Mobil ve tablet alanında henüz geliştirme düzenlenmemiştir"
  ### Kısa bir video ile web sitemi inceleyebilirsiniz.
 
 https://github.com/mrvozturk/coffe_blog/assets/133267808/1ac95f97-7797-4494-b0df-79daf53a3f18
