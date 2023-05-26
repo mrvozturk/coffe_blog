@@ -5,7 +5,7 @@ Kafeinli içeceklerin farklı türleri, kahve çekirdekleri, demleme teknikleri 
 bilgilendirmek ve kahve tutkusunu paylaşmak istiyorum. 
 Aynı zamanda kahve severler arasında etkileşim ve deneyim paylaşımını teşvik ederek bir kahve topluluğu oluşturmayı amaçlıyorum
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- "Web sitem, kafe ve kahvelerle ilgili içerik sunarken şu anda sadece bilgisayarlara uygun bir platformda erişilebilir.Mobil ve tablet alanında henüz geliştirilme aşamasındadır."
+- "Web sitem, kafe ve kahvelerle ilgili içerik sunarken şu anda sadece bilgisayarlara uygun bir platformda erişilebilir.Mobil ve tablet alanında henüz geliştirme yapılmamıştır.."
  ### Kısa bir video ile web sitemi inceleyebilirsiniz.
 
 https://github.com/mrvozturk/coffe_blog/assets/133267808/1ac95f97-7797-4494-b0df-79daf53a3f18
