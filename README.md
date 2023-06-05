@@ -10,12 +10,5 @@ Aynı zamanda kahve severler arasında etkileşim ve deneyim paylaşımını te�
  
  ### Linke tıklayarak web sitesine de ulaşabilirsiniz ( https://coffe-blog.vercel.app/ )
 
-https://github.com/mrvozturk/coffe_blog/assets/133267808/1ac95f97-7797-4494-b0df-79daf53a3f18
 
-
-
-
-
-
-https://github.com/mrvozturk/coffe_blog/assets/133267808/d0827644-3c4b-4721-9560-7e46d8cd89fe
 
